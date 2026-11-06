@@ -12,7 +12,7 @@ Baseline schedules and best reported results by scenario for the CP-ALNS reactiv
 | `Baseline data/P750.xlsx` | Baseline data for case P750 |
 | `Best Results by Scenario.xlsx` | Best reported results for the scenarios included in the workbook |
 
-The five Excel workbooks are preserved byte-for-byte from the files selected by the repository owner. Their original sheet names, formulas, values, and formatting are unchanged. “Best” denotes the reported experimental results; this repository does not independently certify global optimality.
+The five Excel workbooks are preserved byte-for-byte from the files selected by the repository owner. “Best” denotes the reported experimental results; this repository does not independently certify global optimality.
 
 ## Access and version
 
@@ -22,7 +22,7 @@ This initial data snapshot was prepared on 2026-11-06. `SHA256SUMS.txt` records 
 
 ## 中文说明
 
-本仓库包含两部分：`Baseline data` 文件夹中的四个案例基准计划，以及 `Best Results by Scenario.xlsx` 中的各场景最优结果。五份 Excel 均按作者指定的原文件上传，未修改表内内容。
+本仓库包含两部分：`Baseline data` 文件夹中的四个案例基准计划，以及 `Best Results by Scenario.xlsx` 中的各场景最优结果。
 
 仓库目前保持私有，投稿后由作者另行开放。公开前，正文中的仓库链接不能供普通读者访问。
 
