@@ -1,0 +1,35 @@
+{
+  "snapshot_date": "2026-11-06",
+  "files": [
+    {
+      "path": "Baseline data/P150.xlsx",
+      "size_bytes": 29158,
+      "sha256": "8f8feb035c465d4a55b9ca188ee2c00761614ffeecd78b0c440f54f1be6f2f49",
+      "git_blob_sha1": "8e6a50ec1377cd41b6e2767a36e1d1679ede0303"
+    },
+    {
+      "path": "Baseline data/P300.xlsx",
+      "size_bytes": 46039,
+      "sha256": "17add7da5abd2ca8012a1befc000a8db856906b5391b2b00159ead7e9d2d0744",
+      "git_blob_sha1": "e5f2bffd43589ac597b6b8ed1590e5f049a44d43"
+    },
+    {
+      "path": "Baseline data/P70.xlsx",
+      "size_bytes": 19563,
+      "sha256": "e4756bb10791516d305ae105d699dc1dab3b420be435e6260e001815c8263770",
+      "git_blob_sha1": "7e6506f729008a0111f6b6bfdff57986f005af72"
+    },
+    {
+      "path": "Baseline data/P750.xlsx",
+      "size_bytes": 97637,
+      "sha256": "f2617973c1d18c0ecfbc784e8b498d9511cff3de5856fdb28c88ac7703317416",
+      "git_blob_sha1": "e255a4565107abf2a2913063fce771188a441213"
+    },
+    {
+      "path": "Best Results by Scenario.xlsx",
+      "size_bytes": 1161667,
+      "sha256": "4d0f9a9a2703b1975a60c436228d44180223aa64914337fb32c8f19df712bb11",
+      "git_blob_sha1": "e3a6c162b0a5f083b9c5c3fee460f5a0cc0114ea"
+    }
+  ]
+}
